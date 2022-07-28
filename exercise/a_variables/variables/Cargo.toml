@@ -1,0 +1,9 @@
+[package]
+name = "variables"
+version = "2.3.4"
+authors = ["Norbert Kamiński <norbert.kaminski@3mdeb.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
